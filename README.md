@@ -29,7 +29,7 @@ To view the project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/the-sunday-bite.git
+   git clone https://https://github.com/suhanivaishnav/oibsip_taskno_1
    ```
 2. Navigate to the project folder:
    ```bash
