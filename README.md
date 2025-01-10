@@ -35,26 +35,18 @@ To view the project locally, follow these steps:
    ```bash
    cd the-sunday-bite
    ```
-3. Open `index.html` in your browser.
+3. Open `The Sunday Bite.html` in your browser.
 
 ## File Structure
 
 ```
 The-Sunday-Bite/
 |
-|-- index.html        # Main HTML file
+|-- The Sunday Bite.html        # Main HTML file
 |-- css/
 |   |-- styles.css    # Main stylesheet
 |-- images/           # Folder for images used in the website
 ```
-
-## Screenshots
-
-### Home Page
-![Home Page](images/home-page-screenshot.png)
-
-### Menu Section
-![Menu Section](images/menu-section-screenshot.png)
 
 ## License
 
