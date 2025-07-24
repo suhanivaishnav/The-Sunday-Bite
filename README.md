@@ -33,7 +33,7 @@ To view the project locally, follow these steps:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd oibsip_taskno_1
+   cd The-Sunday-Bite
    ```
 3. Open `The Sunday Bite.html` in your browser.
 
